@@ -27,7 +27,7 @@
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript  
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript  
 - **Backend**: PHP, MySQL  
 - **Security**: Password Hashing, CSRF Tokens, Session Management
 
