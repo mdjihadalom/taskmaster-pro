@@ -6,6 +6,25 @@
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [Visit TaskMaster Pro Live](https://taskmaster-pro.dreamcorpo.com/)  
+
+
+---
+
+## 🔐 Demo Login Information
+
+### 👤 Normal User
+- **Username**: user  
+- **Password**: 000  
+
+### 🛡️ Admin User
+- **Username**: admin 
+- **Password**: 123  
+
+---
+
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML5, CSS3, Bootstrap, JavaScript  
